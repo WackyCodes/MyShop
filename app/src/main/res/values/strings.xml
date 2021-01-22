@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyShop</string>
+
+    <string name="company_name">Wackycodes Design and Development</string>
+    <string name="company_email">wackycodes@gmail.com</string>
+    <string name="company_address">H-54, Ratnagiri Colony, Near Ratnagiri Petrol Pump,
+        Bhopal, Pin - 462022</string>
+    <string name="navigation_Drawer_Open">Drawer Open</string>
+    <string name="navigation_Drawer_close">Drawer Close</string>
+
+
+</resources>
